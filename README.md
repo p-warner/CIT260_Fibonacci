@@ -1,2 +1,2 @@
 # CIT260_Fibonacci
-Skeleton for the Fibonacci Sequence
+Check out Fib.py for the skeleton used for the Fibonacci Sequence assignment.
